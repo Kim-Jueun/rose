@@ -1,4 +1,2 @@
 abb
-ccc
-ddd
-fere
+ddd 
